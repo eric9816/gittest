@@ -1,2 +1,4 @@
-a = 5
-print('hello world')
+i = 0
+while i<=10:
+    print("'Я в Git'e")
+    i +=1
