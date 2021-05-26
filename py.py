@@ -5,3 +5,4 @@ if a==
 b = len('b')
 c = len('c')
 print()
+a = 5
